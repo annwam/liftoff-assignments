@@ -22,4 +22,4 @@ https://trello.com/b/Kj7SDWfJ/fit4life
 (Include a link to your project on GitHub)
  Here is my GitHub link
 
- https://github.com/annwam/fit4life 
+ https://github.com/annwam/fit4life
